@@ -3,6 +3,7 @@ import unittest
 
 # Vinh Luong
 # vinhbl@umich.edu
+#GITREPO: https://github.com/vinhluong274/206hw
 
 # SI 206 Fall 2017
 # Homework 3 - Code
